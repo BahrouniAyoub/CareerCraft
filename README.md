@@ -23,10 +23,6 @@ _Built with cutting-edge technologies and AI integration:_
 
 Visit the 👉 [_LINK 🔗_](https://resume-builder-roan-phi.vercel.app)
 
-| User Interface | Dashboard              |
-| -------------- | ---------------------- |
-| ![UI](UI.png)  | ![Home](Dashboard.png) |
-
 </div>
 
 ---
