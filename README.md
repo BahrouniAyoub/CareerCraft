@@ -3,12 +3,6 @@
 # 📜 RESUME BUILDER PRO 🚀
 
 AI-Powered Professional Resume Builder with Real-time Optimization
-
-![Last Commit](https://img.shields.io/github/last-commit/BahrouniAyoub/resume-builder?style=flat-square)
-![Languages](https://img.shields.io/github/languages/top/BahrouniAyoub/resume-builder?style=flat-square&color=blue)
-![License](https://img.shields.io/badge/license-ISC-blue?style=flat-square)
-![Version](https://img.shields.io/badge/version-1.0.0-success?style=flat-square)
-
 _Built with cutting-edge technologies and AI integration:_
 
 ![React](https://img.shields.io/badge/React-19.1.1-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -19,9 +13,6 @@ _Built with cutting-edge technologies and AI integration:_
 ![ImageKit](https://img.shields.io/badge/ImageKit-FF0000?style=flat-square&logo=imagekit&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-## LIVE - DEMO 🌐
-
-Visit the 👉 [_LINK 🔗_](https://resume-builder-roan-phi.vercel.app)
 
 </div>
 
